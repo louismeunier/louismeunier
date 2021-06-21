@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louismeunier&show_icons=true&theme=tokyonight&count_private=true">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louismeunier&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=louismeunier&show_icons=true&theme=tokyonight&count_private=true">
 
 - https://whatsmyrank.netlify.app
 
