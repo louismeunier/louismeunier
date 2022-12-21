@@ -1,3 +1,1 @@
-$$\begin{align}
-  \Leftarrow
-\end{align}$$
+$\Leftarrow$
