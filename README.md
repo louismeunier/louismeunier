@@ -1,1 +1,3 @@
-*https://louismeunier.net*
+$$\begin{align}
+  \Leftarrow
+\end{align}$$
